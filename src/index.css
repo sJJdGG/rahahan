@@ -19,6 +19,6 @@ code {
 }
 
 #root {
-  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
+  height: 100vh;
   display: flex;
 }
