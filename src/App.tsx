@@ -30,6 +30,7 @@ const Education = () => {
   return (
     <View>
       <Text>Education Screen</Text>
+      <Text>Repository: github.com/sjjdgg/rahahan</Text>
     </View>
   );
 };
