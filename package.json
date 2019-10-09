@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/icons": "^4.4.3",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.7",
     "@types/react": "16.9.3",
     "@types/react-dom": "16.9.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-native": "0.59.10",
+    "react-native-web": "^0.11.7",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.1.2",
     "typescript": "3.6.3"
   },
@@ -32,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-native": "0.57.65",
+    "@types/react-router-dom": "^5.1.0"
   }
 }
